@@ -9,7 +9,7 @@ try:
     header = {'User-Agent':
                   'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36'}
 
-    bot = telebot.TeleBot('Your TOKEN')  # Введите токен вашего телеграм бота
+    bot = telebot.TeleBot('TOKEN')  # Введите токен вашего телеграм бота
 
 
     def weather():
