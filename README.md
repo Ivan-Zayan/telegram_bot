@@ -2,6 +2,7 @@
 This bot works in Russian and in English. It is based on neural network transformer models.
 The bot has built-in buttons (I trained to use the telebot library).
 ![picture with commands](command.jpg)
+---
 To see the working commands of the bot, type "/start"
 ---
 # How to launch a bot
