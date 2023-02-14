@@ -10,8 +10,10 @@ To see the working commands of the bot, type "/start"
 * Creating a virtual environment
 * install libraries from a file requirements.txt
 * Enter the token of your telegram bot
+
 '''
 bot = telebot.TeleBot('TOKEN')
 '''
+
 >The token must be taken from @BotFather in a telegram
 * run the file Telegram_Bot.py
